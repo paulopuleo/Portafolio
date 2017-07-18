@@ -1,0 +1,28 @@
+CREATE TABLE Buzon (
+Nombre     VARCHAR(25),
+Tipo    VARCHAR(8) NOT NULL,
+Topico     VARCHAR(25),
+PRIMARY KEY (Nombre),
+CONSTRAINT Tipos_Validos CHECK (Tipo IN ('Direct','Fanout','Topic'))
+);
+
+CREATE TABLE Cola (
+Nombre VARCHAR(25),
+PRIMARY KEY (Nombre)
+);
+
+CREATE TABLE Mensaje (
+ID INT AUTO_INCREMENT,
+ID_Cola VARCHAR(25),
+Msj VARCHAR(255) NOT NULL,
+PRIMARY KEY (ID,ID_Cola),
+FOREIGN KEY (ID_Cola) REFERENCES Cola(Nombre)
+);
+
+CREATE TABLE Buzon_Cola (
+ID_Buzon VARCHAR(25),
+ID_Cola VARCHAR(25),
+PRIMARY KEY (ID_Buzon,ID_Cola),
+FOREIGN KEY (ID_Buzon) REFERENCES Buzon(Nombre),
+FOREIGN KEY (ID_Cola) REFERENCES Cola(Nombre)
+);

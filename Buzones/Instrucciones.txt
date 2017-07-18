@@ -1,0 +1,5 @@
+Instalar la BD (Realizada en SQLYOG)
+Abrir el archivo ServidoTCP.c
+Abrir el archivo CLienteTCP.c
+
+Cualquier duda verificar el informe

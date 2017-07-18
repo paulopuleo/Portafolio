@@ -1,0 +1,343 @@
+Al momento de los calculos se usan todos los decimales
+Demanda Diaria        	1.0		2.0		3.0		4.0		4.0		5.0		
+Probabilidad          	20,0%	20,0%	20,0%	20,0%	10,0%	10,0%	
+Probabilidad acumulada	20,0%	40,0%	60,0%	80,0%	90,0%	100,0%	
+
+Tiempo de entrega    	4.0		4.0		5.0		
+Probabilidad          	30,0%	40,0%	30,0%	
+Probabilidad acumulada	30,0%	70,0%	100,0%	
+
+Tiempo de espera     	3.0		4.0		4.0		5.0		
+Probabilidad          	70,0%	10,0%	10,0%	10,0%	
+Probabilidad acumulada	70,0%	80,0%	90,0%	100,0%	
+
+
+Q=	6,9|		9,8|		12,0|		13,9|		13,9|		15,5|		
+PR=	10,0|		20,0|		30,0|		40,0|		40,0|		50,0|		
+Para Q=6,9 y PR=10.0
+
+Costo Faltante 		48.0
+Costo Orden 		16.0
+Costo inventario 	48.920547
+Costo total 		112.92055
+
+
+
+Para Q=9,8 y PR=10.0
+
+Costo Faltante 		104.0
+Costo Orden 		16.0
+Costo inventario 	49.665756
+Costo total 		169.66576
+
+
+
+Para Q=12,0 y PR=10.0
+
+Costo Faltante 		168.0
+Costo Orden 		8.0
+Costo inventario 	50.2137
+Costo total 		226.2137
+
+
+
+Para Q=13,9 y PR=10.0
+
+Costo Faltante 		344.0
+Costo Orden 		16.0
+Costo inventario 	50.980824
+Costo total 		410.98083
+
+
+
+Para Q=13,9 y PR=10.0
+
+Costo Faltante 		200.0
+Costo Orden 		16.0
+Costo inventario 	52.12055
+Costo total 		268.12054
+
+
+
+Para Q=15,5 y PR=10.0
+
+Costo Faltante 		112.0
+Costo Orden 		8.0
+Costo inventario 	53.084934
+Costo total 		173.08493
+
+
+
+Para Q=6,9 y PR=20.0
+
+Costo Faltante 		312.0
+Costo Orden 		16.0
+Costo inventario 	53.30411
+Costo total 		381.3041
+
+
+
+Para Q=9,8 y PR=20.0
+
+Costo Faltante 		248.0
+Costo Orden 		16.0
+Costo inventario 	54.334248
+Costo total 		318.33423
+
+
+
+Para Q=12,0 y PR=20.0
+
+Costo Faltante 		240.0
+Costo Orden 		16.0
+Costo inventario 	54.79452
+Costo total 		310.79453
+
+
+
+Para Q=13,9 y PR=20.0
+
+Costo Faltante 		128.0
+Costo Orden 		16.0
+Costo inventario 	55.802742
+Costo total 		199.80273
+
+
+
+Para Q=13,9 y PR=20.0
+
+Costo Faltante 		240.0
+Costo Orden 		8.0
+Costo inventario 	56.21918
+Costo total 		304.21918
+
+
+
+Para Q=15,5 y PR=20.0
+
+Costo Faltante 		216.0
+Costo Orden 		16.0
+Costo inventario 	56.92055
+Costo total 		288.92053
+
+
+
+Para Q=6,9 y PR=30.0
+
+Costo Faltante 		224.0
+Costo Orden 		16.0
+Costo inventario 	57.31507
+Costo total 		297.31506
+
+
+
+Para Q=9,8 y PR=30.0
+
+Costo Faltante 		248.0
+Costo Orden 		16.0
+Costo inventario 	57.643837
+Costo total 		321.64383
+
+
+
+Para Q=12,0 y PR=30.0
+
+Costo Faltante 		272.0
+Costo Orden 		16.0
+Costo inventario 	58.454796
+Costo total 		346.4548
+
+
+
+Para Q=13,9 y PR=30.0
+
+Costo Faltante 		128.0
+Costo Orden 		8.0
+Costo inventario 	59.068493
+Costo total 		195.0685
+
+
+
+Para Q=13,9 y PR=30.0
+
+Costo Faltante 		184.0
+Costo Orden 		16.0
+Costo inventario 	59.747948
+Costo total 		259.74796
+
+
+
+Para Q=15,5 y PR=30.0
+
+Costo Faltante 		32.0
+Costo Orden 		16.0
+Costo inventario 	61.501373
+Costo total 		109.50137
+
+
+
+Para Q=6,9 y PR=40.0
+
+Costo Faltante 		112.0
+Costo Orden 		16.0
+Costo inventario 	62.158905
+Costo total 		190.1589
+
+
+
+Para Q=9,8 y PR=40.0
+
+Costo Faltante 		88.0
+Costo Orden 		16.0
+Costo inventario 	63.0137
+Costo total 		167.0137
+
+
+
+Para Q=12,0 y PR=40.0
+
+Costo Faltante 		88.0
+Costo Orden 		8.0
+Costo inventario 	63.868496
+Costo total 		159.8685
+
+
+
+Para Q=13,9 y PR=40.0
+
+Costo Faltante 		200.0
+Costo Orden 		16.0
+Costo inventario 	64.328766
+Costo total 		280.32877
+
+
+
+Para Q=13,9 y PR=40.0
+
+Costo Faltante 		72.0
+Costo Orden 		16.0
+Costo inventario 	65.62192
+Costo total 		153.62192
+
+
+
+Para Q=15,5 y PR=40.0
+
+Costo Faltante 		0.0
+Costo Orden 		16.0
+Costo inventario 	68.07671
+Costo total 		84.07671
+
+
+
+Para Q=6,9 y PR=40.0
+
+Costo Faltante 		64.0
+Costo Orden 		16.0
+Costo inventario 	69.0411
+Costo total 		149.0411
+
+
+
+Para Q=9,8 y PR=40.0
+
+Costo Faltante 		208.0
+Costo Orden 		8.0
+Costo inventario 	69.391785
+Costo total 		285.39178
+
+
+
+Para Q=12,0 y PR=40.0
+
+Costo Faltante 		272.0
+Costo Orden 		16.0
+Costo inventario 	70.0274
+Costo total 		358.0274
+
+
+
+Para Q=13,9 y PR=40.0
+
+Costo Faltante 		168.0
+Costo Orden 		16.0
+Costo inventario 	70.99178
+Costo total 		254.99179
+
+
+
+Para Q=13,9 y PR=40.0
+
+Costo Faltante 		48.0
+Costo Orden 		16.0
+Costo inventario 	72.59178
+Costo total 		136.59178
+
+
+
+Para Q=15,5 y PR=40.0
+
+Costo Faltante 		24.0
+Costo Orden 		16.0
+Costo inventario 	74.03836
+Costo total 		114.03836
+
+
+
+Para Q=6,9 y PR=50.0
+
+Costo Faltante 		120.0
+Costo Orden 		8.0
+Costo inventario 	74.43288
+Costo total 		202.43288
+
+
+
+Para Q=9,8 y PR=50.0
+
+Costo Faltante 		280.0
+Costo Orden 		16.0
+Costo inventario 	74.73973
+Costo total 		370.73975
+
+
+
+Para Q=12,0 y PR=50.0
+
+Costo Faltante 		160.0
+Costo Orden 		16.0
+Costo inventario 	75.37534
+Costo total 		251.37534
+
+
+
+Para Q=13,9 y PR=50.0
+
+Costo Faltante 		64.0
+Costo Orden 		16.0
+Costo inventario 	76.31781
+Costo total 		156.31781
+
+
+
+Para Q=13,9 y PR=50.0
+
+Costo Faltante 		72.0
+Costo Orden 		16.0
+Costo inventario 	77.369865
+Costo total 		165.36987
+
+
+
+Para Q=15,5 y PR=50.0
+
+Costo Faltante 		96.0
+Costo Orden 		8.0
+Costo inventario 	78.31233
+Costo total 		182.31233
+
+
+
+ El Pedido optimo es 15.0
+ con un punto de reorden igual a 40.0
+con un costo total de 84,1
